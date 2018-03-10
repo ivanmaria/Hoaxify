@@ -1,0 +1,43 @@
+
+body {
+	background-color:#E5E7E9;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    height: 50px;
+    width: 30px;
+    outline: white;
+    background-color:black;
+    border: 1px solid black;
+}
+
+#feature{
+	background-color: #F1948A;
+}
+
+.navbar{
+	height: 80px;
+	background-color: #ff66ff;
+}
+/*
+.container{
+	padding-top:px;
+	text-align: center;
+}*/
+
+.container{
+  padding-top: 30px;
+  text-align: center;
+}
+
+.container-fluid{
+	padding: 0px;
+
+}
+.row{
+	padding: 15px;
+}
+
+.card-body{
+	height: 125px;
+}
